@@ -1,7 +1,7 @@
 
 
 ### 👋 Welcome to My GitHub Profile!  
-Hi there! I'm [Your Name], a versatile and enthusiastic professional passionate about data-driven solutions and innovative problem-solving.  
+Hi there! I'm Bhavya Cherukuri, a versatile and enthusiastic professional passionate about data-driven solutions and innovative problem-solving.  
 
 ### 🌍 Based in:  
 Dublin, Ireland  
@@ -14,7 +14,7 @@ Dublin, Ireland
 Data Analysis | Software Development | Cloud Enthusiast | Business Analysis | Customer Support  
 
 ### 📧 Reach me at:  
-[Your Email Address]  
+chebhavya@gmail.com  
 
 ---
 
